@@ -3,9 +3,6 @@ Network Intrusion Detection System (NIDS) is a real-time security tool that moni
 #
 Link of the project :- https://intrusion-watchdog.preview.emergentagent.com/?utm_source=share
 #
-# 🛡️ Intrusion Watchdog
-
-> **Real-Time Intrusion Detection, Monitoring & Security Event Analysis Platform**
 
 ## 📌 Overview
 
